@@ -1,5 +1,8 @@
 {
     "remastered": [
-        "infectious-invitation_demo"
+        {
+            "folder": "infectious-invitation_demo",
+            "desc": "Face robro bruh"
+        }
     ]
 }
