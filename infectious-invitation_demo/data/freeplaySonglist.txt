@@ -1,0 +1,3 @@
+Cat Walk;; 8;; robro;; 55 70 255
+Furmidable;; 8;; robro;; 55 70 255
+Scratch;; 8;; robro;; 55 70 255

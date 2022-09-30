@@ -1,0 +1,138 @@
+{
+	"animations": [
+		[
+			"idle",
+			"BF idle dance",
+			24,
+			false,
+			[]
+		],
+		[
+			"singLEFT",
+			"BF NOTE LEFT0",
+			24,
+			false,
+			[]
+		],
+		[
+			"singRIGHT",
+			"BF NOTE RIGHT0",
+			24,
+			false,
+			[]
+		],
+		[
+			"singDOWN",
+			"BF NOTE DOWN0",
+			24,
+			false,
+			[]
+		],
+		[
+			"singUPmiss",
+			"BF NOTE UP MISS",
+			24,
+			false,
+			[]
+		],
+		[
+			"singLEFTmiss",
+			"BF NOTE LEFT MISS",
+			24,
+			false,
+			[]
+		],
+		[
+			"singRIGHTmiss",
+			"BF NOTE RIGHT MISS",
+			24,
+			false,
+			[]
+		],
+		[
+			"singDOWNmiss",
+			"BF NOTE DOWN MISS",
+			24,
+			false,
+			[]
+		],
+		[
+			"singUP",
+			"BF NOTE UP0",
+			24,
+			false,
+			[]
+		]
+	],
+	"afterimage": [],
+	"barRGBA": [
+		0,
+		180,
+		255,
+		100
+	],
+	"charPos": [
+		0,
+		0
+	],
+	"offsets": [
+		[
+			"idle",
+			0,
+			0
+		],
+		[
+			"singLEFT",
+			8,
+			8
+		],
+		[
+			"singRIGHT",
+			-45,
+			10
+		],
+		[
+			"singDOWN",
+			-10,
+			-44
+		],
+		[
+			"singUPmiss",
+			34,
+			56
+		],
+		[
+			"singLEFTmiss",
+			22,
+			52
+		],
+		[
+			"singRIGHTmiss",
+			10,
+			50
+		],
+		[
+			"singDOWNmiss",
+			5,
+			55
+		],
+		[
+			"singUP",
+			-20,
+			40
+		]
+	],
+	"flipX": true,
+	"cameraPos": [
+		-139,
+		-76
+	],
+	"icon": "bf-new",
+	"idle": [
+		"idle"
+	],
+	"antialiasing": true,
+	"assets": [
+		"characters/bf-new"
+	]
+}
