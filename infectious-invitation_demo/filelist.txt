@@ -13,7 +13,6 @@ data/scratch/scratch-hard.json
 data/scratch/scratch-normal.json
 images/bad.png
 images/bg.png
-images/bg1.png
 images/bridge.png
 images/characters/bf-new.png
 images/characters/bf-new.xml
