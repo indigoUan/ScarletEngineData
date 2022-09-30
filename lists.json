@@ -2,11 +2,13 @@
     "remastered": [
         {
             "folder": "infectious-invitation_demo",
-            "desc": "Face robro bruh"
+            "desc": "Face robro bruh",
+            "color": "006eff"
         },
         {
             "folder": "test-dlc",
-            "desc": "sexo"
+            "desc": "sexo",
+            "color": "ffffff"
         }
     ]
 }
