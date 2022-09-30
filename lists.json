@@ -3,12 +3,14 @@
         {
             "folder": "infectious-invitation_demo",
             "desc": "Face robro bruh",
-            "color": "006eff"
+            "color": "006eff",
+            "version": 0
         },
         {
             "folder": "test-dlc",
             "desc": "sexo",
-            "color": "ffffff"
+            "color": "ffffff",
+            "version": 0
         }
     ]
 }
