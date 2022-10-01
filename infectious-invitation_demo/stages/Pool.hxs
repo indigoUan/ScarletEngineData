@@ -31,8 +31,6 @@ function createStage() {
     Game.add(bridge);
     Game.add(waterfall);
     Game.add(pool2);
-
-    trace(Paths.getFileTree("mods/infectious-invitation_demo", false).join("\n"));
 }
 
 function createPost() {
