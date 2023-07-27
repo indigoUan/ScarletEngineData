@@ -3,4 +3,4 @@
 Only Windows and Linux are compatible
 
 ### Libraries
-The library hxCodec must be of the version 2.6.1.
+The library hxCodec must be of the version 3.0.2.
